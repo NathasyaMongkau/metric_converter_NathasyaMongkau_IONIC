@@ -1,0 +1,31 @@
+ion-header {
+  --background: #1f052d;
+}
+
+ion-title,
+ion-label {
+  color: #0c0c0c;
+}
+
+ion-content {
+  --ion-background-color: #957c9c;
+  --ion-padding: 16px;
+
+  ion-label {
+    font-family: "Courier New", Courier, monospace;
+    margin-bottom: 8px;
+  }
+
+  ion-item {
+    margin-top: 8px;
+  }
+
+  ion-button {
+    margin-top: 16px;
+    --background: #1f0427;
+  }
+
+  ion-input {
+    font-size: 16px;
+  }
+}
